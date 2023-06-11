@@ -7,7 +7,32 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+##Git New file Upload-----
+
+-git init
+-git add .
+-git commit -m "First Comment"
+-git branch -M main
+-git remote add origin .... URL ...
+-git push origin main --force
+
+##Git New file Download -----
+-git init
+-git clone ---URL---
+-composer install
+-php artisan key:generate
+-php artisan migrate
+
+##Git Update file Download -----
+-git add .
+-git status
+-git commit -m "My comment" 
+-git push origin master
+
+
 ## About Laravel
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 

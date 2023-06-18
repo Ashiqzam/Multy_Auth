@@ -9,7 +9,7 @@ class CreateUsersSeeder extends Seeder
 {
     /**
      * Run the database seeds.
-     *
+     * php artisan db:seed --class=CreateUsersSeeder
      * @return void
      */
     public function run()
